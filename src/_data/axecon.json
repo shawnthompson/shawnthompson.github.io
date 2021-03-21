@@ -54,7 +54,7 @@
 		"title": "Digital Accessibility Legal Update",
 		"presenter": ["Kristina Launey"],
 		"link": "https://axe-con.com/event/digital-accessibility-legal-update/",
-		"description" : "Businesses continue to be at great risk of a legal action regarding the accessibility of digital technologies, including websites, mobile applications, and kiosks. The number of demand letters and lawsuits filed on this basis has continued unabated for quite a few years. In this session, Kristina Launey of Seyfarth Shaw LLP provides legal background, an update on current developments, and tips and strategies to help businesses spot and manage the risks they face in complying with the Americans with Disabilities Act and other applicable laws‚Äô accessibility requirements as may be applicable to websites, mobile apps, and other technologies."
+		"description" : "Businesses continue to be at great risk of a legal action regarding the accessibility of digital technologies, including websites, mobile applications, and kiosks. The number of demand letters and lawsuits filed on this basis has continued unabated for quite a few years. In this session, Kristina Launey of Seyfarth Shaw LLP provides legal background, an update on current developments, and tips and strategies to help businesses spot and manage the risks they face in complying with the Americans with Disabilities Act and other applicable laws‚ accessibility requirements as may be applicable to websites, mobile apps, and other technologies."
 	}, {
 		"start": "12:30 pm",
 		"end": "1:20 pm",
@@ -62,7 +62,8 @@
 		"title": "Difference Drives Innovation & Disability Inclusion Benefits All of Us",
 		"presenter": ["Haben Girma"],
 		"link": "https://axe-con.com/event/difference-drives-innovation-disability-inclusion-benefits-all-of-us/",
-		"description" : ""
+		"description" : "",
+		"note" : "Haben talks about experience in tech being deaf/blind. Talks about ableism, intersections between ableism and racism, how disability drives innovation. "
 	}, {
 		"start": "1:30 pm",
 		"end": "2:20 pm",
@@ -97,7 +98,8 @@
 		"title": "ROI of Accessibility",
 		"presenter": ["Greg Williams"],
 		"link": "https://axe-con.com/event/roi-of-accessibility/",
-		"description" : "By making your website accessible, your organization can capture a huge, overlooked market share, reduce your legal risk, lower call-center costs, and boost brand value."
+		"description" : "By making your website accessible, your organization can capture a huge, overlooked market share, reduce your legal risk, lower call-center costs, and boost brand value.",
+		"note" : "Greg, talks on Return on Investment (ROI) with Accessibility."
 	}, {
 		"start": "2:30 pm",
 		"end": "3:20 pm",
@@ -105,7 +107,8 @@
 		"title": "Accessibility Testing Coverage: Automation and Intelligent Guided Testing",
 		"presenter": ["Glenda Sims"],
 		"link": "https://axe-con.com/event/accessibility-testing-coverage-automation-and-intelligent-guided-testing/",
-		"description" : "Ever wonder how much accessibility coverage you can actually get from technology like automation and Intelligent Guided Testing? In this session, we’ll review three years of audit data to show the actual accessibility coverage percentages you can get from various technologies."
+		"description" : "Ever wonder how much accessibility coverage you can actually get from technology like automation and Intelligent Guided Testing? In this session, we’ll review three years of audit data to show the actual accessibility coverage percentages you can get from various technologies.",
+		"note" : "Glenda talks about automated testing accessibility and the benefits of automated testing. Gives a breakdown of the results of what was found in automated testing vs. manual testing."
 	}, {
 		"start": "2:30 pm",
 		"end": "3:20 pm",
@@ -113,7 +116,8 @@
 		"title": "Applied Accessibility: Practical Tips for Building More Accessible Front-Ends",
 		"presenter": ["Sara Soueidan"],
 		"link": "https://axe-con.com/event/applied-accessibility-practical-tips-for-building-more-accessible-front-ends/",
-		"description" : "Ever wonder how much accessibility coverage you can actually get from technology like automation and Intelligent Guided Testing? In this session, we’ll review three years of audit data to show the actual accessibility coverage percentages you can get from various technologies."
+		"description" : "Ever wonder how much accessibility coverage you can actually get from technology like automation and Intelligent Guided Testing? In this session, we’ll review three years of audit data to show the actual accessibility coverage percentages you can get from various technologies.",
+		"note" : "Sara talks about how important semantic HTML is on a webpage. Speaks about landmarks and headings. In the end talks about navigating on the web with different devices."
 	}, {
 		"start": "2:30 pm",
 		"end": "3:20 pm",
@@ -121,7 +125,8 @@
 		"title": "The UX Behind axe DevTools",
 		"presenter": ["Aaron Pearlman"],
 		"link": "https://axe-con.com/event/the-ux-behind-axe-devtools/",
-		"description" : "Ever wonder how the axe DevTools extension was designed? What decisions went into making it both accessible and usable? Let’s pull off the veil and dive into the nuts and bolts of how axe DevTools was conceived, the numerous iterations it went through and the specific accessibility decisions we had to bring the world’s most trusted accessibility testing software to life."
+		"description" : "Ever wonder how the axe DevTools extension was designed? What decisions went into making it both accessible and usable? Let’s pull off the veil and dive into the nuts and bolts of how axe DevTools was conceived, the numerous iterations it went through and the specific accessibility decisions we had to bring the world’s most trusted accessibility testing software to life.",
+		"note" : "Excatly what the title states. Designing of the axe DevTools."
 	}, {
 		"start": "2:30 pm",
 		"end": "3:20 pm",
