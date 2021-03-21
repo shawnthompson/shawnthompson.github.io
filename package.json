@@ -8,8 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch:eleventy": "eleventy --serve",
 	"sass": "sass --style=compressed src/sass/base.scss dist/css/base.css",
+	"eleventy": "npx eleventy",
 	"watch:sass": "npm run sass -- --watch",
-	"start": "npm-run-all sass --parallel watch:*"
+	"start": "npm-run-all sass --parallel watch:*",
+	"build": "npm-run-all sass --parallel eleventy"
   },
   "keywords": ["accessibility", "11ty", "cognitive disabilities", "blog" ],
   "author": "Shawn Thompson",
