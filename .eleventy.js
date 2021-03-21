@@ -20,6 +20,7 @@ module.exports = function(config) {
 		},
 		templateFormats : ["html", "md", "njk", "css"],
 		htmlTemplateEngine : "njk",
-		markdownTemplate : "njk"
+		markdownTemplate : "njk",
+		setUseGitIgnore : false
 	};
 }
