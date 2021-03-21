@@ -1,0 +1,42 @@
+---
+title: "Axe-Con review"
+layout: "layouts/base.njk"
+---
+
+
+
+<p><a rel="external" href="https://axe-con.com">Axe-Con</a> is now over. But it's not too later to <a href="https://www.deque.com/axe-con/"><strong>register</strong></a> and watch the recorded videos. "See" you next year!<!-- Hopefully in Monteal --></p>
+
+<p>Axe-con was a great virtual experience for me. This two days of talks and a third day for the hack-a-thon made being stuck in the house during a pandemic bearable. Even though there wasn’t a chance to meet anyone in person, Deque was active in a Slack channel they created for participants to interact with each other. They were taking notes on suggestions to make the next axe-con even better. Many of the presenters were in the channel so you can speak directly with them. I also got to interact with many of those who write the articles I read on different accessibility topics. Even though the name of the conference was axe-con, Deque didn’t use the event just to promote their axe and axe dev tools products. There was a lot of talk on the development track about axe although that was because of how good of a product it was and I didn’t see it at all as a sales pitch for the paid dev tools version. The best part of this event is that the talks are still available for free on their site. So if you missed out of some of the talks because your kids were fighting, you were busy in another session, work was calling or even you were out getting a tattoo, you can always catch up on what you missed. </p>
+
+<section>
+	<h2>Day one</h2>
+	
+	{% for session in axecon.wednesday %}
+	<section>
+		{% set comma = joiner() %}
+			<h3 class="pt-4"><a href="{{ session.link }}">{{ session.title }}</a> <small>by {% for presenters in session.presenter %}{{ comma() }} {{ presenters }}{% endfor %}</small></h3>
+			<p class="mt-2">{{ session.description }}</p>
+			{% if session.note %}
+			<p class="alert alert-primary p-4" role="alert">{{ session.note }}</p>
+			{% endif %}
+	</section>
+	{% endfor %}
+</section>
+
+
+<section>
+	<h2>Day two</h2>
+	
+		
+		{% for session in axecon.thursday %}
+		<section>
+			{% set comma = joiner() %}
+				<h3 class="pt-4"><a href="{{ session.link }}">{{ session.title }}</a> <small>by {% for presenters in session.presenter %}{{ comma() }} {{ presenters }}{% endfor %}</small></h3>
+				<p class="mt-2">{{ session.description }}</p>
+				{% if session.note %}
+				<p class="alert alert-primary p-4" role="alert">{{ session.note }}</p>
+				{% endif %}
+		</section>
+		{% endfor %}
+</section>

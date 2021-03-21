@@ -1,0 +1,24 @@
+{
+  "name": "shawnthompson.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:eleventy": "eleventy --serve",
+	"sass": "sass --style=compressed src/sass/base.scss dist/css/base.css",
+	"watch:sass": "npm run sass -- --watch",
+	"start": "npm-run-all sass --parallel watch:*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "eleventy-plugin-sass": "^1.2.0",
+    "npm-run-all": "^4.1.5"
+  },
+  "dependencies": {
+    "sass": "^1.32.8"
+  }
+}
