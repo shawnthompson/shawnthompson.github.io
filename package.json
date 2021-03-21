@@ -1,7 +1,8 @@
 {
   "name": "shawnthompson.github.io",
   "version": "1.0.0",
-  "description": "",
+  "homepage" : "https://shawnthompson.github.io/",
+  "description": "Personal website running 11ty on github. A blog on accessibility and cognitive disabilities.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,8 +11,8 @@
 	"watch:sass": "npm run sass -- --watch",
 	"start": "npm-run-all sass --parallel watch:*"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["accessibility", "11ty", "cognitive disabilities", "blog" ],
+  "author": "Shawn Thompson",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
