@@ -1,0 +1,37 @@
+{
+  "name": "shawnthompson.ca",
+  "version": "1.0.0",
+  "description": "A website built from a [boilerplate](https://github.com/shawnthompson/shawnthompson.github.io) for building a fast static website with the Eleventy static site generator, for deployment to Netlify.",
+  "scripts": {
+    "build": "npx eleventy",
+    "watch": "npx eleventy --watch",
+    "serve": "npx eleventy --serve",
+    "debug": "DEBUG=* npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shawnthompson/shawnthompson.github.io"
+  },
+  "author": {
+    "name": "Shawn Thompson",
+    "email": "shawn@shawnthompson.ca",
+    "url": "https://shawnthompson.ca"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shawnthompson/shawnthompson.github.io/issues"
+  },
+  "homepage": "https://shawnthompson.ca",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "luxon": "^1.25.0",
+    "markdown-it": "^10.0.0",
+    "markdown-it-anchor": "^5.3.0"
+  },
+  "dependencies": {
+    "@11ty/eleventy-navigation": "^0.1.6",
+    "clean-css": "^4.2.1",
+    "html-minifier": "^4.0.0",
+    "uglify-js": "^3.14.2"
+  }
+}
