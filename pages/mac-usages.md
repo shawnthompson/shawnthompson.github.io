@@ -22,6 +22,8 @@ permalink: /mac/
 ## Equipment / Devices
 
 - MacMini
+- Main monitor - 49 inch curved
+- Secondary Monitor - 34 inch HDMI
 - SSC iPad (used to read to anything over VPN, not always possible)
 - SSC iPhone
 - AirPod Max
