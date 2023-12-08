@@ -4,11 +4,20 @@ layout: layouts/home.njk
 permalink: /mac/
 ---
 
-When asked why is working on a Mac and in the Apple ecosystem is so much better for me with my memory disability than trying to setup a similar work space in a Windows environment I created this document. I won't even get into how much cognitive energy it takes to correct for the Apple CMD vs the Window Control or the oppsite scrolling when reading documentations in both systems, which aren't easy to correct in Windows.
+When asked why is working on a Mac and in the Apple ecosystem is so much better for me with my memory disability than trying to setup a similar work space in a Windows environment, I was asked to create this document. I won't even get into how much cognitive energy it takes to correct for the Apple CMD vs the Window Control or the oppsite scrolling when reading documentations in both systems, which aren't easy to correct in Windows.
 
-Throughout the years I've relied on Apple devices to work together to help me remember things and have access to those notes / reminders on all my devices without having to worry about hacking everything to make it work. 
+Throughout the years I've relied on Apple devices to work together, using my AppleID, to help me remember things and have access to those notes / reminders on all my devices without having to worry about hacking everything to make it work. I've also became heavily reliant using MacOS [Spoken content](https://support.apple.com/en-ca/guide/iphone/iph96b214f0/ios) to help me retain the information I'm reading while it highlights and reads the same text out loud just by using a simple keyboard shortcut (`option + esc`).
 
-Separating work and personal life is not an option for me. During the work day there will be things that come up regarding my personal life like, family responsibilities, health appointments, adulting that I can not ignore until after work because I will most likely forget. So including my personal calendars, reminders, notes and even text messages is very important to my wellbeing. Same goes with work tasks after work hours, many others have a much easier time to remember something they think of at night to do the next day but I have to write everything down and I choose to do it electronically. I can't rely on grabbing my work iPhone to add a reminder there because it takes way too much cognitive energy just to log into our work phones, by the time I get to the phone, log in with my password, authenticate more than one time (I'll save that for another post) I would have have already forgot what I wanted to add. These memory slips aren't something that happens to me every once and awhile, they are something that always happen to me due to my damaged brain. Been like this since 1998. Good thing is, it hasn't gotten worst, just life has gotten in the way. Fatigue and stress have a big factor on my memory retension. So the more spoons I loose during the day due to an environment that doesn't work for me the less information my brain can retain.
+Separating work and personal life is not an option for me. During the work day there will be things that come up regarding my personal life like, family responsibilities, health appointments, adulting that I can not ignore until after work because I will most likely forget. So including my personal calendars, reminders, notes and even text messages is very important to my wellbeing. Same goes with work tasks after work hours, many others have a much easier time to remember something they think of at night to do the next day but I have to write everything down and I choose to do it electronically. I can't rely on grabbing my work iPhone to add a reminder there because it takes way too much cognitive energy just to log into our work phones, by the time I get to the phone, log in with my password, authenticate more than one time (I'll save that for another post) I would have have already forgotten what I wanted to add. These memory slips aren't something that happens to me every once and awhile, they are something that always happen to me due to my damaged brain. Been like this since 1998. Good thing is, it hasn't gotten worst, just life has gotten in the way. Fatigue and stress have a big factor on my memory retension. So the more [spoons](https://www.theswaddle.com/what-the-spoon-theory-means-for-people-living-with-chronic-illnesses-disabilities) I loose during the day due to an environment that doesn't work for me the less information my brain can retain.
+
+The following documentation covers my workload for the work I currently have to do in my role as a Digital Accessibility Advisor. This does not cover administrative work not related to core tasks. Which are tasks I am very reluctant to do or have forgotten to do because they don't work in my Apple environment.
+
+Administrative work not related to core tasks could include:
+
+- Time sheets
+- Mandatory training
+- Reading internal communications
+- Accessing information on the intranet sites
 
 ## On this page
 
@@ -19,6 +28,7 @@ Separating work and personal life is not an option for me. During the work day t
     - [Developing](#developing)
     - [Participating in Work Groups / Meetings](#participating-in-work-groups--meetings)
       - [W3C](#w3c)
+- [Interruptions from personal life during work hours](#interruptions-from-personal-life-during-work-hours)
 - [Stepping away from desk](#stepping-away-from-desk)
   - [While I'm away](#while-im-away)
 - [Returning to Mac](#returning-to-mac)
@@ -30,21 +40,21 @@ Separating work and personal life is not an option for me. During the work day t
 - MacMini
 - Main monitor - 49 inch curved
 - Secondary Monitor - 34 inch HDMI
-- SSC iPad (used to read to anything over VPN, not always possible)
-- SSC iPhone
+- Work supplied iPad (used to read to anything over VPN, not always possible)
+- Work supplied iPhone
 - AirPod Max
 - [Logitech MX Keys for Mac keyboard](https://www.logitech.com/en-ca/products/keyboards/mx-keys-mac-wireless-keyboard.920-009552.html)
   - Connected to 3 different Bluetooth devices (buttons on keyboard)
-    1. SSC iPad
-    2. SSC PC laptop
+    1. Work supplied iPad
+    2. Work supplied PC laptop
     3. MacMini (USB dongle)
   - Custom button setup
     - Screen capture
     - Open new Safari window
 - [Logitech MX Master For Mac mouse](https://www.logitech.com/en-ca/products/mice/mx-master-3s-mac-bluetooth-mouse.910-006570.html#top)
   - Connected to 3 different Bluetooth devices (button under mouse)
-    1. SSC iPad
-    2. SSC PC laptop
+    1. Work supplied iPad
+    2. Work supplied PC laptop
     3. MacMini (USB dongle)
   - Custom button setup
     - Switch desktop
@@ -80,7 +90,7 @@ The following list shows what a startup is like for me when my MacMini was shut 
    2. Outlook
    3. Teams
    4. VS Code
-   5. iTerm (preferred terminal but Mac Terminal is good enough for my SSC work)
+   5. iTerm (preferred terminal but Mac Terminal is good enough for my work)
 6. Window placement, MacOS does a good job remembering which monitor an app was on when shut down, just not what desktop. Using `Better touch tool.app` I've defined specific sizes and placement on each desktop for most of my application windows. Obsidian application shows up on every desktop window I have on the main monitor.
    1. Secondary monitor Desktop 1:
       1. Fantastical
@@ -135,7 +145,7 @@ Main monitor desktops (**Comms** and **Mail**)
 
 Secondary monitor: Fantastical and Reminders
 
-Environment: Headphones on music playing softly (lower than system sound), SSC iPad visible for notifications from emails or Teams. Using MacOS [Spoken content](https://support.apple.com/en-ca/guide/iphone/iph96b214f0/ios) to read information.
+Environment: Headphones on music playing softly (lower than system sound), Work supplied iPad visible for notifications from emails or Teams. Using MacOS [Spoken content](https://support.apple.com/en-ca/guide/iphone/iph96b214f0/ios) to read information using the keyboard shortcut.
 
 - Work coming in many different ways, could be in a chat in Teams, could be email, from ongoing tasks (saved for later)
 - Usually involving searching the internet for information on different accessibility topics in Safari, emails or conversations had in the accessibility Slack workspace.
@@ -146,7 +156,7 @@ Main monitor desktops (**Code** and **Comms**)
 
 Secondary monitor: Different application depending on the tasks. Often used as reference with Word, Safari, Teams chat when working with someone.
 
-Environment: Headphones on music playing softly (lower than system sound), SSC iPad visible for notifications from emails or Teams. Using MacOS [Spoken content](https://support.apple.com/en-ca/guide/iphone/iph96b214f0/ios) to read information.
+Environment: Headphones on music playing softly (lower than system sound), Work supplied iPad visible for notifications from emails or Teams. Using MacOS [Spoken content](https://support.apple.com/en-ca/guide/iphone/iph96b214f0/ios) to read information using the keyboard shortcut.
 
 - Work usually found in Safari on Github, in tasks (saved for later), discussions on Teams or in emails.
 - Open VS Code where I left off and continue working or take on new issue / task.
@@ -157,14 +167,31 @@ Environment: Headphones on music playing softly (lower than system sound), SSC i
 
 Main monitor desktops (**W3C**)
 
-Environment: Headphones on in conference call, SSC iPad visible for notifications from emails or Teams. Using MacOS [Spoken content](https://support.apple.com/en-ca/guide/iphone/iph96b214f0/ios) to read information.
+Environment: Headphones on in conference call,  work supplied iPad visible for notifications from emails or Teams. Using MacOS [Spoken content](https://support.apple.com/en-ca/guide/iphone/iph96b214f0/ios) to read information using the keyboard shortcut.
 
 - Open Safari, Zoom, Textual (IRC), Obsidian applications needed to participate in the meeting. Taking notes in Obsidian and interacting in IRC during the calls.
 - Using Safari to open links shared during the call, working on collaborating Google Docs, leaving tabs open for stuff to read later.
 
+## Accessing information with the work supplied iPad
+
+If I need to access anything that is blocked behind work's firewall, I have to use the iPad they've supplied using VoiceOver to read the text because Spoken Content doesn't work the same way on an iPad as it does in MacOS (something I've reported to Apple). Using my keyboard, I press the bluetooth key associated with the iPad and I'm able to type in iOS. I can also do the same with my mouse to use the iPad as a computer. The only thing is we could not setup a keyboard shortcut for Spoken Content in iOS so we setup the same shortcut combination to launch VoiceOver, which I have a cheatsheet of the motions to navigate with VoiceOver reading out everything. This isn't ideal because VoiceOver often reads text that isn't present in the window which throws my concentration off because I'm used to reading at the same time it's reading to me. 
+
+Also a lot of information and applications I need to access within the firewall are not available on the mobile platform so I'm out of luck there too.
+
+## Interruptions from personal life during work hours
+
+Having two kids with special needs and some personal health problems, as well as other non-work related interruptions. I can receive personal emails, phone calls or text messages throughout the work day.
+
+- When a phone call comes in, it rings on my MacMini and I can answer it without picking up an different device and add a meeting or appointment in my calendar using Siri to text or fantastical in my toolbar (using simple language Meeting with doctor next monday at 1PM at the office). This will create a calendar event with the information I asked it to without having to switch my focus.
+- When a text comes in from someone, Siri will read it to me and I can either reply by voice or switch to my **Comms** desktop and type my reply and hit send. I could always reply in the pop up notification area but I often forget I can do that.
+- If an email comes into my personal email, say from my kids school because of a problem their having at school, I can easily switch to the **Mail** desktop read the email, with Spoken Content, and reply back, switch to my `Messages.app` to let their mother know about the problem at school.
+- If I get a delivery at the door, I can switch to the `Home.app` on my secondary monitor, speak to the person at the door and unlock the door so them can put the package inside my staircase.
+
+ I can then continue on working on what I was doing. I will have to try to remember exactly what I was doing but not disconnecting too much helps me retain a lot of the information I had in my mind when the interruption came in.
+
 ## Stepping away from desk
 
-1. Lock MacOs leaving everything open that I was working on. 
+1. Lock MacOs leaving everything open that I was working on.
 2. Take off AirPods
 
 ### While I'm away
@@ -191,6 +218,10 @@ If I think of anything I need to do at my desk when I return I usually ask Siri 
 
 - There was a way to assign an application to specific desktop in MacOS but it seems to only allow either the first or second desktop and I use a few others.
 - If I get a Teams, Slack or text notification that I need to respond to right away I can use my horizontal mouse wheel to switch between desktops quickly and back without breaking too much my concentration.
-- I wish I had a way to lower the volume (or even mute) of Teams / Zoom calls when I'm using MacOS [Spoken content](https://support.apple.com/en-ca/guide/iphone/iph96b214f0/ios) to read information.
+- I wish I had a way to lower the volume (or even mute) of Teams / Zoom calls when I'm using MacOS [Spoken content](https://support.apple.com/en-ca/guide/iphone/iph96b214f0/ios) to read information using the keyboard shortcut.
 - Every so once and awhile (2 weeks) open Safari > Window > Merge all windows, which merges all my open Safari windows and tabs into one window and I recreate my different Safari windows for my different desktops closing tabs I don't need anymore.
 - Sometime I have to reorganize my desktops in Mission control, a little annoying but easy enough to do with my mouse shortcuts. I just figured out that I can move a desktop from one monitor to another one (as long as it's not the active desktop).
+
+## Conclusion
+
+There are many more ease of use features in the Apple ecosystem but these are the ones I use the most. I've tried to use other features in MacOS like Apple Notes / Quick notes but new things are very hard for me to put in my workflow.
