@@ -68,7 +68,7 @@ Administrative work not related to core tasks could include:
 
 ## New fresh day
 
-The following list shows what a startup is like for me when my MacMini was shut down. Reading it, you will understand why I don't like to shut my Mac down very often. Doing this on a Windows system takes a lot more energy and hacking and still doesn't work as expected or as smooth as a MacMini M1 in MacOS.
+The following list shows what a startup is like for me when my MacMini was shut down. Reading it, you will understand why I don't like to shut my Mac down very often. Doing this on a Windows system takes a lot more energy and hacking and still doesn't work as expected or as smooth as a MacMini M1 in MacOS. Setting up all these windows, desktops and monitors is very important for me to have access to information and allowing me to due tasks before I forget what I was.... writing... no going to do.
 
 1. Turn on MacMini
 2. Put on Airpod Max
