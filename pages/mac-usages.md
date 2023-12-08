@@ -4,6 +4,12 @@ layout: layouts/home.njk
 permalink: /mac/
 ---
 
+When asked why is working on a Mac and in the Apple ecosystem is so much better for me with my memory disability than trying to setup a similar work space in a Windows environment I created this document. I won't even get into how much cognitive energy it takes to correct for the Apple CMD vs the Window Control or the oppsite scrolling when reading documentations in both systems, which aren't easy to correct in Windows.
+
+Throughout the years I've relied on Apple devices to work together to help me remember things and have access to those notes / reminders on all my devices without having to worry about hacking everything to make it work. 
+
+Separating work and personal life is not an option for me. During the work day there will be things that come up regarding my personal life like, family responsibilities, health appointments, adulting that I can not ignore until after work because I will most likely forget. So including my personal calendars, reminders, notes and even text messages is very important to my wellbeing. Same goes with work tasks after work hours, many others have a much easier time to remember something they think of at night to do the next day but I have to write everything down and I choose to do it electronically. I can't rely on grabbing my work iPhone to add a reminder there because it takes way too much cognitive energy just to log into our work phones, by the time I get to the phone, log in with my password, authenticate more than one time (I'll save that for another post) I would have have already forgot what I wanted to add. These memory slips aren't something that happens to me every once and awhile, they are something that always happen to me due to my damaged brain. Been like this since 1998. Good thing is, it hasn't gotten worst, just life has gotten in the way. Fatigue and stress have a big factor on my memory retension. So the more spoons I loose during the day due to an environment that doesn't work for me the less information my brain can retain.
+
 ## On this page
 
 - [Equipment / Devices](#equipment--devices)
@@ -75,7 +81,7 @@ The following list shows what a startup is like for me when my MacMini was shut 
    3. Teams
    4. VS Code
    5. iTerm (preferred terminal but Mac Terminal is good enough for my SSC work)
-6. Window placement, MacOS does a good job remembering which monitor an app was on when shut down, just not what desktop. Using `Better touch tool.app` I've defined specific sizes and placement on each desktop for most of my application windows. Obsidian application shows up on every desktop window I have on the right monitor.
+6. Window placement, MacOS does a good job remembering which monitor an app was on when shut down, just not what desktop. Using `Better touch tool.app` I've defined specific sizes and placement on each desktop for most of my application windows. Obsidian application shows up on every desktop window I have on the main monitor.
    1. Secondary monitor Desktop 1:
       1. Fantastical
       2. Reminders
