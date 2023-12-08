@@ -1,7 +1,7 @@
 ---
 title: Using MacOS script
 layout: layouts/home.njk
-permalink: /mac
+permalink: /mac/
 ---
 
 ## On this page
