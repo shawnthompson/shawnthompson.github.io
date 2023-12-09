@@ -1,5 +1,5 @@
 ---
-layout: layouts/home.njk
+layout: layouts/base.njk
 title: Meet Shawn Thompson
 date: 2016-01-01T00:00:00.000Z
 permalink: /
