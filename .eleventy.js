@@ -58,10 +58,8 @@ module.exports = function(eleventyConfig) {
   });
 
   // Don't process folders with static assets e.g. images
-  eleventyConfig.addPassthroughCopy("favicon.ico");
-  eleventyConfig.addPassthroughCopy("static/img");
-  eleventyConfig.addPassthroughCopy({ "_docs" : "/docs" });
-  eleventyConfig.addPassthroughCopy("_includes/assets/css/inline.css");
+  eleventyConfig.addPassthroughCopy( "./src/static");
+  eleventyConfig.addPassthroughCopy({ "./src/_docs" : "/docs" });
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");

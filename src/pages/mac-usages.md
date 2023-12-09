@@ -1,6 +1,6 @@
 ---
 title: Using MacOS script
-layout: layouts/home.njk
+layout: layouts/base.njk
 permalink: /mac/
 ---
 
