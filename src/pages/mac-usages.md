@@ -4,11 +4,11 @@ layout: layouts/base.njk
 permalink: /mac/
 ---
 
-When asked why is working on a Mac and in the Apple ecosystem is so much better for me with my memory disability than trying to setup a similar work space in a Windows environment, I was asked to create this document. I won't even get into how much cognitive energy it takes to correct for the Apple CMD vs the Window Control or the oppsite scrolling when reading documentations in both systems, which aren't easy to correct in Windows.
+When asked why is working on a Mac and in the Apple ecosystem is so much better for me with my memory disability than trying to setup a similar work space in a Windows environment, I was asked to create this document. I won't even get into how much cognitive energy it takes to correct for the Apple CMD vs the Window Control or the opposite scrolling when reading documentations in both systems, which aren't easy to correct in Windows.
 
-Throughout the years I've relied on Apple devices to work together, using my AppleID, to help me remember things and have access to those notes / reminders on all my devices without having to worry about hacking everything to make it work. I've also became heavily reliant using MacOS [Spoken content](https://support.apple.com/en-ca/guide/iphone/iph96b214f0/ios) to help me retain the information I'm reading while it highlights and reads the same text out loud just by using a simple keyboard shortcut (`option + esc`).
+Throughout the years I've relied on Apple devices, all using the same **AppleID**, to work together to help me remember things and have access to those notes / reminders on all my devices without having to worry about hacking everything to make it work. I've also became heavily reliant using MacOS [Spoken content](https://support.apple.com/en-ca/guide/iphone/iph96b214f0/ios) to help me retain the information I'm reading while it highlights and reads the same text out loud just by using a simple keyboard shortcut (`option + esc`).
 
-Separating work and personal life is not an option for me. During the work day there will be things that come up regarding my personal life like, family responsibilities, health appointments, adulting that I can not ignore until after work because I will most likely forget. So including my personal calendars, reminders, notes and even text messages is very important to my wellbeing. Same goes with work tasks after work hours, many others have a much easier time to remember something they think of at night to do the next day but I have to write everything down and I choose to do it electronically. I can't rely on grabbing my work iPhone to add a reminder there because it takes way too much cognitive energy just to log into our work phones, by the time I get to the phone, log in with my password, authenticate more than one time (I'll save that for another post) I would have have already forgotten what I wanted to add. These memory slips aren't something that happens to me every once and awhile, they are something that always happen to me due to my damaged brain. Been like this since 1998. Good thing is, it hasn't gotten worst, just life has gotten in the way. Fatigue and stress have a big factor on my memory retension. So the more [spoons](https://www.theswaddle.com/what-the-spoon-theory-means-for-people-living-with-chronic-illnesses-disabilities) I loose during the day due to an environment that doesn't work for me the less information my brain can retain.
+Separating work and personal life is not an option for me. During the work day there will be things that come up regarding my personal life like, family responsibilities, health appointments, adulting that I can not ignore until after work because I will most likely forget. So including my personal calendars, reminders, notes and even text messages, all in the same working environment is very important to my wellbeing. Same goes with work tasks after work hours, many others have a much easier time to remember something they think of at night to do the next day but I have to write everything down and I choose to do it electronically. I can't rely on grabbing my work iPhone to add a reminder there because it takes way too much cognitive energy just to log into our work phones, by the time I get to the phone, log in with my password, authenticate more than one time (I'll save that for another post) I would have have already forgotten what I wanted to add. These memory slips aren't something that happens to me every once and awhile, they are something that always happen to me due to my damaged brain. Been like this since 1998. Good thing is, it hasn't gotten worst, just life has gotten in the way. Fatigue and stress have a big factor on my memory retension. So the more [spoons](https://www.theswaddle.com/what-the-spoon-theory-means-for-people-living-with-chronic-illnesses-disabilities) I loose during the day due to an environment that doesn't work for me the less information my brain can retain.
 
 The following documentation covers my workload for the work I currently have to do in my role as a Digital Accessibility Advisor. This does not cover administrative work not related to core tasks. Which are tasks I am very reluctant to do or have forgotten to do because they don't work in my Apple environment.
 
@@ -189,6 +189,16 @@ Having two kids with special needs and some personal health problems, as well as
 
  I can then continue on working on what I was doing. I will have to try to remember exactly what I was doing but not disconnecting too much helps me retain a lot of the information I had in my mind when the interruption came in.
 
+## Password management
+
+Like most of you folks reading this, I have way too many passwords to remember. This is where password management is essential for me, and it should be for you too. I've been using a password manager for over 10 years. I believe in using strong passwords for everything so I use password suggestions from either 1Password or Apple Keychain. I would use only Apple Keychain but because I used to be forced to work on a Windows system I didn't have access to the passwords in my keychain. There are times that I'm not able to get my password from Apple so having a copy of most of my passwords also available in 1Password helps me use them when I'm on a device not connected with my AppleID. 
+
+Forcing myself to remember a password by transcribing it from one device to another takes a lot of energy out of me. I have problems remembering more than one character at a time and sometimes I get the character wrong and in the end I have to redo the whole process. More spoons that could be saved with allowing me to auto fill passwords. 
+
+### Multifactor authentication
+
+One of the features of MacOS that I love and that saves a lot of spoons is the [AutoFill Verification Codes in Safari](https://www.webnots.com/how-to-autofill-verification-codes-in-safari-from-email-and-messages/), which makes it easier to automatically suggest the verification code form your email or message in the login form. This is the primary reason why I use Safari, not having to break concentration while trying to work and log into an online site is great. 
+
 ## Stepping away from desk
 
 1. Lock MacOs leaving everything open that I was working on.
@@ -201,7 +211,7 @@ If I think of anything I need to do at my desk when I return I usually ask Siri 
 ## Returning to Mac
 
 1. Put on AirPods
-2. Turn toward Mac 
+2. Turn toward Mac
 3. Unlocks with my Apple Watch. No password to enter! Thanks Apple!
 4. Return to what I was doing, sometimes leaving notes in Obsidian about what I was doing (if I remember)
 5. Check reminders to see if I added anything
@@ -216,7 +226,7 @@ If I think of anything I need to do at my desk when I return I usually ask Siri 
 
 ## Notes
 
-- There was a way to assign an application to specific desktop in MacOS but it seems to only allow either the first or second desktop and I use a few others.
+- There is a way to assign an application to specific desktop in MacOS but it seems to only allow either the first or second desktop and I use a few others.
 - If I get a Teams, Slack or text notification that I need to respond to right away I can use my horizontal mouse wheel to switch between desktops quickly and back without breaking too much my concentration.
 - I wish I had a way to lower the volume (or even mute) of Teams / Zoom calls when I'm using MacOS [Spoken content](https://support.apple.com/en-ca/guide/iphone/iph96b214f0/ios) to read information using the keyboard shortcut.
 - Every so once and awhile (2 weeks) open Safari > Window > Merge all windows, which merges all my open Safari windows and tabs into one window and I recreate my different Safari windows for my different desktops closing tabs I don't need anymore.
@@ -224,4 +234,4 @@ If I think of anything I need to do at my desk when I return I usually ask Siri 
 
 ## Conclusion
 
-There are many more ease of use features in the Apple ecosystem but these are the ones I use the most. I've tried to use other features in MacOS like Apple Notes / Quick notes but new things are very hard for me to put in my workflow.
+Living a busy work and personal / family life where forgetting to do something can be very There are many more ease of use features in the Apple ecosystem but these are the ones I use the most. I've tried to use other features in MacOS like Apple Notes / Quick notes but new things are very hard for me to put in my workflow.
