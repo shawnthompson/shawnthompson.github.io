@@ -33,7 +33,7 @@ Administrative work not related to core tasks could include:
 - [Password management](#password-management)
   - [Multifactor authentication](#multifactor-authentication)
 - [Stepping away from desk](#stepping-away-from-desk)
-  - [While I'm away](#while-im-away)
+  - [While I'm away](#while-i'm-away)
 - [Returning to Mac](#returning-to-mac)
 - [End of day](#end-of-day)
 - [Notes](#notes)
