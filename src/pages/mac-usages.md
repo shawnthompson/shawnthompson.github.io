@@ -4,7 +4,7 @@ layout: layouts/base.njk
 permalink: /mac/
 ---
 
-When asked why is working on a Mac and in the Apple ecosystem is so much better for me with my memory disability than trying to setup a similar work space in a Windows environment, I was asked to create this document. I won't even get into how much cognitive energy it takes to correct for the Apple CMD vs the Window Control or the opposite scrolling when reading documentations in both systems, which aren't easy to correct in Windows.
+When asked why is working on a Mac and in the Apple ecosystem is so much better for me with my memory disability than trying to setup a similar work space in a Windows environment, I was asked to create this document. I won't even get into how much cognitive energy it takes to correct for the Apple Command key vs the Window Control key or the opposite scrolling when reading documentations in both systems, which aren't easy to correct in Windows.
 
 Throughout the years I've relied on Apple devices, all using the same **AppleID**, to work together to help me remember things and have access to those notes / reminders on all my devices without having to worry about hacking everything to make it work. I've also became heavily reliant using MacOS [Spoken content](https://support.apple.com/en-ca/guide/iphone/iph96b214f0/ios) to help me retain the information I'm reading while it highlights and reads the same text out loud just by using a simple keyboard shortcut (`option + esc`).
 
