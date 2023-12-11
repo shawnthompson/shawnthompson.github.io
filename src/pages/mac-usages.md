@@ -238,4 +238,6 @@ If I think of anything I need to do at my desk when I return I usually ask Siri 
 
 ## Conclusion
 
-Living a busy work and personal / family life where forgetting to do something can be very There are many more ease of use features in the Apple ecosystem but these are the ones I use the most. I've tried to use other features in MacOS like Apple Notes / Quick notes but new things are very hard for me to put in my workflow.
+Living a busy work and personal / family life where forgetting to do something can be very draining for anyone but someone with a cognitive disability like mine that forcing myself to remember tasks and information when I know it's something I should be able to easily remember is very draining. Not just spoons but emotionally also. The more I can do to help me save cognitive energy the more productive I am at work and with my family at the end of the day. Three years ago I switch jobs because I was told my need for working in an Apple only environment was a preference not a need. Since then, I've been working 90% of my time with my Apple devices and I enjoy working again and look forward to starting a new day, most days.
+
+There are many more ease of use features in the Apple ecosystem but these are the ones I use the most. I've tried to use other features in MacOS like Apple Notes / Quick notes but new things are very hard for me to put in my workflow.
