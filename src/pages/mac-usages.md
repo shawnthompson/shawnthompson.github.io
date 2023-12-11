@@ -42,7 +42,7 @@ Administrative work not related to core tasks could include:
 ## Equipment / Devices
 
 - MacMini
-- Main monitor - 49 inch curved
+- Main monitor - 49 inch curved, with built in KVM (switch)
 - Secondary Monitor - 34 inch HDMI
 - Work supplied iPad (used to read to anything over VPN, not always possible)
 - Work supplied iPhone
