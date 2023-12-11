@@ -189,7 +189,7 @@ Having two kids with special needs and some personal health problems, as well as
 - When a phone call comes in, it rings on my MacMini and I can answer it without picking up an different device and add a meeting or appointment in my calendar using Siri to text or fantastical in my toolbar (using simple language Meeting with doctor next monday at 1PM at the office). This will create a calendar event with the information I asked it to without having to switch my focus.
 - When a text comes in from someone, Siri will read it to me and I can either reply by voice or switch to my **Comms** desktop and type my reply and hit send. I could always reply in the pop up notification area but I often forget I can do that.
 - If an email comes into my personal email, say from my kids school because of a problem their having at school, I can easily switch to the **Mail** desktop read the email, with Spoken Content, and reply back, switch to my `Messages.app` to let their mother know about the problem at school.
-- If I get a delivery at the door, I can switch to the `Home.app` on my secondary monitor, speak to the person at the door and unlock the door so them can put the package inside my staircase.
+- If I get a delivery at the door, I can switch to the `Home.app` on my secondary monitor, speak to the person at the door and unlock the door so they can put the package inside my staircase.
 
  I can then continue on working on what I was doing. I will have to try to remember exactly what I was doing but not disconnecting too much helps me retain a lot of the information I had in my mind when the interruption came in.
 
