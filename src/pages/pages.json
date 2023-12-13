@@ -1,4 +1,4 @@
 {
   "layout": "layouts/base.njk",
-  "permalink": "/{{ title | stripTagsSlugify }}/"
+  "permalink": "/{{ title | slugify }}/"
 }
