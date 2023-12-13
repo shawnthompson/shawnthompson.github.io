@@ -1,6 +1,5 @@
 ---
 title: Why I need the Apple ecosystem
-layout: layouts/base.njk
 permalink: /mac/
 ---
 
