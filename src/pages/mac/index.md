@@ -1,6 +1,7 @@
 ---
 title: Why I need the Apple ecosystem
 layout: layouts/base.njk
+permalink: /mac/
 ---
 
 When asked why is working on a Mac and in the Apple ecosystem is so much better for me with my memory disability than trying to setup a similar work space in a Windows environment, I was asked to create this document. I won't even get into how much cognitive energy it takes to correct for the Apple Command key vs the Window Control key or the opposite scrolling when reading documentations in both systems, which aren't easy to correct in Windows.
