@@ -105,8 +105,23 @@ elForm.addEventListener("submit", (e) => {
 	const allFieldsValid = Object.values(formErrors).every(error => !error);
 
 	if (allFieldsValid) {
-		// If there are no errors, submit the form
-		elForm.submit();
+		// If there are no errors, submit the form using fetch API
+		const formData = new FormData(elForm);
+
+		fetch(elForm.action, {
+			method: 'POST',
+			body: formData
+		})
+			.then(response => {
+				if (response.ok) {
+					window.location.href = '/thanks/'; // Replace with your desired URL
+				} else {
+					console.error('Form submission failed');
+				}
+			})
+			.catch(error => {
+				console.error('Form submission error', error);
+			});
 	} else {
 		// If there are errors, set focus to the first field with an error
 		if (formErrors.name) {
