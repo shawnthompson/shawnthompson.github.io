@@ -51,19 +51,22 @@ function validateField({ elField, validateFn }) {
 
 function validateFieldEmail(el, opts) {
 	const isEmpty = el.value === "";
-	updateFieldDOM(el, !isEmpty, "Email can not be left blank.", opts);
+	const errorMessage = el.getAttribute("data-error-message");
+	updateFieldDOM(el, !isEmpty, errorMessage, opts);
 	formErrors.email = isEmpty;
 }
 
 function validateFieldName(el, opts) {
 	const isEmpty = el.value === "";
-	updateFieldDOM(el, !isEmpty, "Name can not be left blank.", opts);
+	const errorMessage = el.getAttribute("data-error-message");
+	updateFieldDOM(el, !isEmpty, errorMessage, opts);
 	formErrors.name = isEmpty;
 }
 
 function validateFieldMessage(el, opts) {
 	const isEmpty = el.value === "";
-	updateFieldDOM(el, !isEmpty, "Message can not be left blank.", opts);
+	const errorMessage = el.getAttribute("data-error-message");
+	updateFieldDOM(el, !isEmpty, errorMessage, opts);
 	formErrors.message = isEmpty;
 }
 
