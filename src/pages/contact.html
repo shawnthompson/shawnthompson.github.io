@@ -1,0 +1,55 @@
+---
+title: Contact me
+permalink: /contact/
+---
+<form class="jsForm" action="https://usebasin.com/f/e2638f393cf3" method="POST" novalidate>
+
+	<div class="field">
+		<label for="name" class="form-label">Name <span aria-hidden="true">(required)</span>:</label>
+		<input type="text" id="name" name="name" aria-required="true" class="form-control jsFieldName" aria-describedby="nameError">
+		<span class="field-hint">
+			<span class="field-error" id="nameError" aria-live="assertive">
+				<!-- js -->
+			</span>
+		</span>
+	</div>
+	
+	<div class="field">
+		<label for="email" class="form-label">Email <span aria-hidden="true">(required)</span>:</label>
+		<input id="email" type="email" name="email" aria-required="true" class="field-control jsFieldEmail" aria-describedby="emailError" />
+		<span class="field-hint">
+			<span class="field-error" id="emailError" aria-live="assertive">
+				<!-- js -->
+			</span>
+		</span>
+	</div>
+	
+	<div class="field">
+		<label for="msg" class="form-label">Message <span aria-hidden="true">(required)</span>:</label>
+		<textarea id="msg" name="msg" rows="5" cols="20" aria-required="true" class="form-control jsFieldMessage" aria-describedby="messageError"></textarea>
+		<span class="field-hint">
+		<span class="field-error" id="messageError" aria-live="assertive">
+			<!-- js -->
+		</span>
+		</span>
+	</div>
+
+	<div class="form-feedback">
+		<p class="form-feedback-sr visually-hidden" aria-live="assertive">
+			<!-- js -->
+		</p>
+		<p class="form-feedback-msg" aria-hidden="true"></p>
+	</div>
+
+	<input class="visually-hidden" id="honey" name="honey" aria-label="Bot trap. Do not fill" tabindex="-1">
+	
+	<input type="submit" value="Submit" class="btn btn-primary">
+</form>
+
+
+
+<!-- 
+Demo for blogpost: A Guide To Accessible Form Validation
+https://www.smashingmagazine.com/2023/02/guide-accessible-form-validation/
+-->
+

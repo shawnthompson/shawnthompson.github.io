@@ -8,3 +8,15 @@
 html {
 	font-size: 1.3em;
 }
+
+.field {
+
+	&.isInvalid {
+		// color: #d52424;
+	}
+}
+
+.field-error {
+	color: #d52424;
+	display: block;
+}
