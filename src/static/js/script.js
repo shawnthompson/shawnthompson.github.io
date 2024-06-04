@@ -2,11 +2,13 @@ const elForm = document.getElementsByClassName("jsForm")[0];
 const elEmail = document.getElementsByClassName("jsFieldEmail")[0];
 const elName = document.getElementsByClassName("jsFieldName")[0];
 const elMessage = document.getElementsByClassName("jsFieldMessage")[0];
+const elHoneypot = document.getElementById("honey");
 
 const formErrors = {
 	email: false,
 	name: false,
-	message: false
+	message: false,
+	honey: false
 };
 
 let hasSubmitted = false;
@@ -92,6 +94,10 @@ function validateAllFields() {
 	validateFieldEmail(elEmail);
 	validateFieldName(elName);
 	validateFieldMessage(elMessage);
+
+	// Check honeypot field
+	const isHoneyFilled = elHoneypot.value !== "";
+	formErrors.honey = isHoneyFilled;
 }
 
 elForm.addEventListener("submit", (e) => {
@@ -130,6 +136,8 @@ elForm.addEventListener("submit", (e) => {
 			elEmail.focus();
 		} else if (formErrors.message) {
 			elMessage.focus();
+		} else if (formErrors.honey) {
+			console.error('Honeypot field is filled, possible bot submission.');
 		}
 	}
 });
