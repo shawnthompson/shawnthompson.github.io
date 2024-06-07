@@ -1,0 +1,19 @@
+backend:
+  name: github
+  branch: main # Branch to update (optional; defaults to master)
+  repo: shawnthompson/shawnthompson.github.io
+
+media_folder: "src/_uploads" # Folder where user uploaded files should go
+public_folder: "/uploads" # Folder accessible from the public
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "src/blog"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "string", default: "layouts/base.njk", hidden: true }
+      - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
+      - { label: "Body", name: "body", widget: "markdown" }
