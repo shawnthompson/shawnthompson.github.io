@@ -2,6 +2,20 @@
   publish = "_site"
   command = "npm run build"
 
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/index.html"
+  status = 200
+  force = true
+
+[functions]
+  directory = "netlify/functions"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+	Cache-Control = "public, max-age=0, must-revalidate"
+
 # REDIRECT and HEADERS examples
 
 # Redirect rule example
