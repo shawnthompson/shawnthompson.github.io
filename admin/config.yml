@@ -2,7 +2,7 @@ backend:
   name: github
   branch: main # Branch to update (optional; defaults to master)
   repo: shawnthompson/shawnthompson.github.io
-
+publish_mode: editorial_workflow
 media_folder: "src/_uploads" # Folder where user uploaded files should go
 public_folder: "/uploads" # Folder accessible from the public
 
