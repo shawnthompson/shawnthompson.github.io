@@ -4,6 +4,8 @@ title: " Punk Rock et Accessibilité Numérique : Alliés Improbables dans une
 layout: layouts/base.njk
 date: 2024-06-11
 ---
+**Contenu créé et traduit avec ChatGPT**
+
 À première vue, le punk rock et l'accessibilité numérique peuvent sembler être des compagnons étranges. L'un est un genre musical brut et rebelle qui a émergé dans les années 1970, défiant les normes et conventions sociales. L'autre est un mouvement moderne qui s'efforce de garantir que tout le monde, quelle que soit sa capacité, puisse naviguer et utiliser les technologies numériques. Malgré leurs différences apparentes, ces deux forces partagent un ethos commun : une volonté incessante d'inclusion, d'autonomisation et de défiance envers le statu quo.
 
 ## Punk Rock : Le Son de la Rébellion
