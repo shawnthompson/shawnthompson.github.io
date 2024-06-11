@@ -5,6 +5,13 @@ date: 2024-06-07
 ---
 When asked why is working on a Mac and in the Apple ecosystem is so much better for me with my memory disability than trying to setup a similar work space in a Windows environment, I was asked to create this document. I won't even get into how much cognitive energy it takes to correct for the Apple Command key vs the Window Control key or the opposite scrolling when reading documentations in both systems, which aren't easy to correct in Windows.
 
+<ul>
+	<li>Lorem, ipsum dolor.</li>
+	<li>Magni, natus maxime.</li>
+	<li>Totam, incidunt iure.</li>
+	<li>Esse, odio voluptas?</li>
+</ul>
+
 Throughout the years I've relied on Apple devices, all using the same **AppleID**, to work together to help me remember things and have access to those notes / reminders on all my devices without having to worry about hacking everything to make it work. I've also became heavily reliant using MacOS [Spoken content](https://support.apple.com/en-ca/guide/iphone/iph96b214f0/ios) to help me retain the information I'm reading while it highlights and reads the same text out loud just by using a simple keyboard shortcut (`option + esc`).
 
 Separating work and personal life is not an option for me. During the work day there will be things that come up regarding my personal life like, family responsibilities, health appointments, adulting that I can not ignore until after work because I will most likely forget. So including my personal calendars, reminders, notes and even text messages, all in the same working environment is very important to my wellbeing. Same goes with work tasks after work hours, many others have a much easier time to remember something they think of at night to do the next day but I have to write everything down and I choose to do it electronically. I can't rely on grabbing my work iPhone to add a reminder there because it takes way too much cognitive energy just to log into our work phones, by the time I get to the phone, log in with my password, authenticate more than one time (I'll save that for another post) I would have have already forgotten what I wanted to add. These memory slips aren't something that happens to me every once and awhile, they are something that always happen to me due to my damaged brain. Been like this since 1998. Good thing is, it hasn't gotten worst, just life has gotten in the way. Fatigue and stress have a big factor on my memory retension. So the more [spoons](https://www.theswaddle.com/what-the-spoon-theory-means-for-people-living-with-chronic-illnesses-disabilities) I lose during the day due to an environment that doesn't work for me the less information my brain can retain.
