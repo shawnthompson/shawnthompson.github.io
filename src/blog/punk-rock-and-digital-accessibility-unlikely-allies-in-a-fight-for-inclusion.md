@@ -3,6 +3,8 @@ title: "Punk Rock and Digital Accessibility: Unlikely Allies in a Fight for Incl
 layout: layouts/base.njk
 date: 2024-06-11
 ---
+**Content created by ChatGPT**
+
 At first glance, punk rock and digital accessibility might seem like strange bedfellows. One is a raw, rebellious music genre that emerged in the 1970s, challenging societal norms and conventions. The other is a modern movement striving to ensure that everyone, regardless of ability, can navigate and use digital technologies. Despite their apparent differences, these two forces share a common ethos: a relentless drive for inclusivity, empowerment, and challenging the status quo.
 
 ## Punk Rock: The Sound of Rebellion
@@ -32,3 +34,4 @@ Both punk rock and digital accessibility have had profound impacts on their resp
 ## Conclusion: Different Mediums, Shared Goals
 
 While punk rock and digital accessibility operate in different realms, their shared commitment to challenging norms, empowering individuals, and fostering inclusivity reveals a deep, underlying connection. Both movements remind us of the importance of breaking down barriers and ensuring that everyone, regardless of their background or abilities, has a place in the world. Whether through a three-chord song or a well-designed website, the spirit of inclusion and empowerment thrives, making the world a richer, more vibrant place for all.
+
