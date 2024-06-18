@@ -10,6 +10,8 @@
     "sass-build": "sass --style=compressed src/_scss/base.scss _site/static/css/custom.css",
     "watch:sass": "npm run sass-start -- --watch",
     "start": "npm-run-all sass-start --parallel watch:*",
+	"cms": "npx decap-server",
+	"local_cms": "npm-run-all --parallel start cms",
     "build": "npm-run-all sass-build eleventy",
     "debug": "DEBUG=* npx eleventy"
   },
@@ -29,6 +31,8 @@
   "homepage": "https://shawnthompson.ca",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
+    "decap-cms-app": "^3.1.10",
+    "decap-server": "^3.0.4",
     "luxon": "^3.4.4",
     "markdown-it": "^14.1.0",
     "markdown-it-anchor": "^9.0.1",
