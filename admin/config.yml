@@ -1,9 +1,9 @@
 local_backend: true
 
 backend:
-  name: github
+  name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-  repo: shawnthompson/shawnthompson.github.io
+
   
 publish_mode: editorial_workflow
 media_folder: "src/_uploads" # Folder where user uploaded files should go
