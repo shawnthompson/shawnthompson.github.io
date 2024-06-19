@@ -10,8 +10,8 @@
     "sass-build": "sass --style=compressed src/_scss/base.scss _site/static/css/custom.css",
     "watch:sass": "npm run sass-start -- --watch",
     "start": "npm-run-all sass-start --parallel watch:*",
-	"cms": "npx decap-server",
-	"local_cms": "npm-run-all --parallel start cms",
+	"decap": "npx decap-server",
+	"cms": "npm-run-all --parallel start decap",
     "build": "npm-run-all sass-build eleventy",
     "debug": "DEBUG=* npx eleventy"
   },
