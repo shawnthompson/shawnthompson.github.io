@@ -20,3 +20,20 @@ html {
 	color: #d52424;
 	display: block;
 }
+
+p,
+ul {
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+}
+
+h2,
+h3 {
+	margin-top: 1.75em;
+	margin-bottom: 1em;
+}
+
+h2 + h3 {
+	margin-top: 1em;
+}
+
