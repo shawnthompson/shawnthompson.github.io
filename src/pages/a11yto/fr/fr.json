@@ -1,0 +1,4 @@
+{
+"locale" : "fr",
+"permalink"	: "/fr/a11yto/{{ title | slugify }}/"
+}

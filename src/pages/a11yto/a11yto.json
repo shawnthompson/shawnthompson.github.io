@@ -1,0 +1,3 @@
+{
+	"permalink" : "/a11yto/{{ title | slugify }}/"
+}
