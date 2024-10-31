@@ -60,7 +60,8 @@ module.exports = function(eleventyConfig) {
     linkify: true
   };
   let opts = {
-    permalink: false
+	  permalink: false,
+	  tabIndex: false  // Disable tabindex="-1" on headings
   };
 
   eleventyConfig.setLibrary("md", markdownIt(options)
