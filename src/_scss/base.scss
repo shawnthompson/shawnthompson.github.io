@@ -22,9 +22,15 @@ html {
 }
 
 p,
-ul {
+ul,
+ol {
 	margin-top: 1.5em;
 	margin-bottom: 1.5em;
+
+	ul, ol {
+		margin-top: 1em;
+		margin-bottom: 1em;
+	}
 }
 
 h2,
@@ -37,3 +43,7 @@ h2 + h3 {
 	margin-top: 1em;
 }
 
+ul ul, {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
