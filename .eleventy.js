@@ -44,10 +44,11 @@ module.exports = function(eleventyConfig) {
   });
 
   // Don't process folders with static assets e.g. images
-  eleventyConfig.addPassthroughCopy( "./src/static");
-  eleventyConfig.addPassthroughCopy({ "./src/_docs": "/docs" });
-  eleventyConfig.addPassthroughCopy("./admin");
-  eleventyConfig.addPassthroughCopy({"./src/_uploads": "/uploads"});
+	eleventyConfig.addPassthroughCopy( "./src/static");
+	eleventyConfig.addPassthroughCopy({ "./src/_docs": "/docs" });
+	eleventyConfig.addPassthroughCopy("./admin");
+	eleventyConfig.addPassthroughCopy({ "./src/_uploads": "/uploads" });
+	eleventyConfig.addPassthroughCopy({ "./src/static/favicon/*": "." });
 
 
   /* Markdown Plugins */
