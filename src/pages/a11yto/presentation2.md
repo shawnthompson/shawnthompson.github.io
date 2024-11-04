@@ -8,6 +8,8 @@ otherLangTitle: "Accessibilité intégrée : bénédiction ou malédiction ?"
 
 Back to [a11yTO Conference Experience](/a11yto/) page.
 
+**Presenter:** Hidde de Vries
+
 ## The Concept of "Built-in" Accessibility:
 
 ### Balancing Ease and Effectiveness:

@@ -8,6 +8,8 @@ otherLangTitle: "Un centre de connaissances en accessibilité : si vous le const
 
 Back to [a11yTO Conference Experience](/a11yto/) page.
 
+**Presenter:** Niki Ramesh and Olena Sullivan
+
 ## The Concept of an Accessibility Knowledge Hub
 
 ### What is an Accessibility Knowledge Hub?

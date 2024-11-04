@@ -8,6 +8,8 @@ otherLangTitle: "Built-in Accessibility: Blessing or Curse?"
 
 Retour à la page de l'[Expérience de la conférence a11yTO](/fr/a11yto/).
 
+**Présentateur:** Hidde de Vries
+
 ## Le concept de l'accessibilité « intégrée » :
 
 ### Trouver un équilibre entre facilité et efficacité :
