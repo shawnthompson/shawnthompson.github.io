@@ -26,9 +26,9 @@ Daniela Kubesch is an accessibility engineer with a background in web engineerin
 - Daniela Kubesch conducted a study involving 21 participants with visual impairments, including blind users, to evaluate the usability and effectiveness of accessibility overlays.
 - The study included a technical evaluation against [WCAG 2.1 standards](https://www.w3.org/TR/WCAG21/) and direct user testing, providing both quantitative and qualitative insights.
 
-#### Results**:
+#### Results:
 
-Accessibility overlays in their current state do not fully deliver on their promises, often creating new usability issues and failing to address existing barrie.
+Accessibility overlays in their current state do not fully deliver on their promises, often creating new usability issues and failing to address existing barriers.
 
 ### Key Findings:
 
