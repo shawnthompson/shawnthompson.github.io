@@ -88,3 +88,4 @@ Jaunita is the ADA Digital Program Manager at Navy Federal and leads their Enter
 
 - [Disability:IN Procurement Toolkit](https://disabilityin.org/procurementtoolkit/), and [Section 508 documentation](https://www.section508.gov/manage/laws-and-policies/).
 - Jaunita also provided contact information and recommended joining the Web A11y Slack for networking and support.
+- Presentation: "[Holding Vendors Accountable - Designing Your Own Accessibility Vendor Monitoring Program](http://bit.ly/vendora11y)"

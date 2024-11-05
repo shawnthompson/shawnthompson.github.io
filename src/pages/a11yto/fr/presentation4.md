@@ -88,3 +88,4 @@ Jaunita est la responsable du programme numérique ADA chez Navy Federal et diri
 
 - [<span lang="en">Disability:IN Procurement Toolkit</span> <small>Seulement disponible en anglais</small>](https://disabilityin.org/resource/procurement-toolkit/), et [documentation de la Section 508 <small>Seulement disponible en anglais</small>](https://www.section508.gov/manage/laws-and-policies/).
 - Jaunita a également fourni ses coordonnées et a recommandé de rejoindre le Web A11y Slack pour le réseautage et le soutien.
+- Présentation : <a href="http://bit.ly/vendora11y" lang="en">Holding Vendors Accountable - Designing Your Own Accessibility Vendor Monitoring Program <small>Seulement disponible en anglais</small></a>
