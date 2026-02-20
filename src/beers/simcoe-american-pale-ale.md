@@ -43,7 +43,6 @@ Fermenter prep:
   - 5.0 kg Pale Malt
   - 0.5 kg Munich
   - 0.3 kg Vienna
-  - 0.2 kg Crystal 40
 
 - Recirculate gently (bottom to top)
 - Stabilize at **66–67°C**
