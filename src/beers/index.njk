@@ -1,0 +1,15 @@
+---
+title: Homebrew Beer Log
+description: A log of beers I've brewed.
+layout: layouts/base.njk
+permalink: /beers/
+---
+
+<ul>
+{%- for beer in collections.beer | reverse %}
+  <li>
+    <a href="{{ beer.url }}">{{ beer.data.title }}</a>
+    <time datetime="{{ beer.date | machineDate }}"> — {{ beer.date | readableDate }}</time>
+  </li>
+{%- endfor %}
+</ul>
