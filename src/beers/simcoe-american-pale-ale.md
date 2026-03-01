@@ -7,11 +7,10 @@ description: Brew day checklist for a Simcoe-hopped American Pale Ale.
 ---
 
 ## Target
-
 - 16–17 L into fermenter (5 gal corny safe fill)
-- OG: 1.064–1.066
-- FG: 1.010–1.012
-- ABV: ~6.8%
+- OG: 1.060–1.062
+- FG: 1.011–1.013
+- ABV: ~6.2–6.4%
 - IBU: ~45
 - Fermentation temp: steady ~20°C
 
@@ -93,7 +92,6 @@ Start timer once boil begins.
 ### 10 min
 
 - 40 g Simcoe
-- Dissolve **0.25 kg dextrose** in ~500 mL hot wort, then add back
 - Add 1 Whirlfloc tablet
 - Add yeast nutrient (pinch)
 
@@ -109,7 +107,7 @@ Start timer once boil begins.
 - Chill to **18–19°C**
 - Add sanitized **Tilt hydrometer** to keg
 - Transfer **16–17 L max** into fermentation corny
-- Measure OG
+- Measure OG (target 1.060–1.062)
 - Oxygenate by shaking
 - Pitch **2 packs US-05**
 - Purge headspace 3 times with CO₂
