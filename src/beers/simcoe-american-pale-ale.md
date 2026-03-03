@@ -28,7 +28,6 @@ description: Brew day checklist for a Simcoe-hopped American Pale Ale.
 
 ### Fermentation Keg
 
-- Install **floating dip tube**
 - Lightly lube lid + post O-rings
 - Reassemble and pressurize to **10–15 PSI**
 - Spray lid and posts with Star San
@@ -55,14 +54,12 @@ description: Brew day checklist for a Simcoe-hopped American Pale Ale.
   - 5.0 kg Pale Malt
   - 0.5 kg Munich
   - 0.3 kg Vienna
-  - 0.2 kg Crystal 40
 
 - Recirculate gently (bottom to top)
 - Stabilize at **66–67°C**
 - Start **60-minute mash timer**
 
 ### 🌡 Mash Temperature Verification (10–15 min)
-
 
 1. Turn pump OFF
 2. Insert INKBIRD probe into middle of grain bed
@@ -121,7 +118,7 @@ Start timer once boil begins.
 
 - Chill to **18–19°C**
 - Add sanitized **Tilt hydrometer**
-- Transfer **16–16.5 L max** into fermentation corny
+- Transfer **16–16.5 L max** into fermentation corny (middle line text)
 - Measure OG (target 1.060–1.063)
 - Oxygenate by shaking
 - Pitch **2 packs US-05**
