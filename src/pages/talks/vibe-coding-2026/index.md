@@ -18,7 +18,8 @@ AI helps me move faster and think broader, but I stay in charge of decisions, qu
 
 - [Talk script](/talks/vibe-coding-2026/script/)
 - [AI chat transcript](/talks/vibe-coding-2026/ai-transcript/)
-- [Session transcript](/talks/vibe-coding-2026/transcript/)
+- [Session transcript](/talks/vibe-coding-2026/transcript/) — lightly edited for readability
+- [Full event transcript](/talks/vibe-coding-2026/transcript-full/) — includes chat reactions and post-session discussion
 - [Original invitation](/talks/vibe-coding-2026/invitation/)
 
 ## Talk context
