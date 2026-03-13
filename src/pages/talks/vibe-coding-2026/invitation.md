@@ -8,6 +8,52 @@ date: 2026-03-13
 
 # ☕ Vibe Coding with Shawn
 
+This page starts with quick access to all talk materials, followed by the original invitation text.
+
+## Materials
+
+<nav aria-label="Talk materials">
+<div class="row row-cols-1 row-cols-sm-2 g-3 my-3">
+
+<div class="col">
+<div class="card h-100">
+<div class="card-body">
+<h3 class="h5 card-title"><i class="fa-solid fa-scroll fa-fw" aria-hidden="true"></i> <a href="/talks/vibe-coding-2026/script/" class="stretched-link text-decoration-none link-body-emphasis">Talk Script</a></h3>
+<p class="card-text text-body-secondary">Presentation script with stage cues and setup checklist.</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card h-100">
+<div class="card-body">
+<h3 class="h5 card-title"><i class="fa-solid fa-robot fa-fw" aria-hidden="true"></i> <a href="/talks/vibe-coding-2026/ai-transcript/" class="stretched-link text-decoration-none link-body-emphasis">AI Chat Transcript</a></h3>
+<p class="card-text text-body-secondary">Full Brody (ChatGPT) planning session and Hunter (Copilot) build session.</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card h-100">
+<div class="card-body">
+<h3 class="h5 card-title"><i class="fa-solid fa-microphone fa-fw" aria-hidden="true"></i> <a href="/talks/vibe-coding-2026/transcript/" class="stretched-link text-decoration-none link-body-emphasis">Session Transcript</a></h3>
+<p class="card-text text-body-secondary">Lightly edited transcript of the live session.</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card h-100">
+<div class="card-body">
+<h3 class="h5 card-title"><i class="fa-solid fa-book-open fa-fw" aria-hidden="true"></i> <a href="/talks/vibe-coding-2026/transcript-full/" class="stretched-link text-decoration-none link-body-emphasis">Full Event Transcript</a></h3>
+<p class="card-text text-body-secondary">Fuller archive including chat reactions and post-session discussion.</p>
+</div>
+</div>
+</div>
+
+</div>
+</nav>
+
 ## Event details
 
 - Date: Friday, March 13
@@ -59,13 +105,6 @@ I’ll be using paid versions of the AI tools shown. Some features might not exi
 - Time permitting: Questions
 
 **Disclaimer:** yes, I asked Brody to help write this description. It would have been weird not to. No AIs were harmed in the making of this session.
-
-## Materials
-
-- [Talk script](/talks/vibe-coding-2026/script/)
-- [AI chat transcript](/talks/vibe-coding-2026/ai-transcript/)
-- [Session transcript](/talks/vibe-coding-2026/transcript/) — lightly edited for readability
-- [Full event transcript](/talks/vibe-coding-2026/transcript-full/) — includes chat reactions and post-session discussion
 
 ## Video
 
