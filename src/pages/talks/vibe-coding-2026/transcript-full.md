@@ -387,4 +387,3 @@ That, along with the GitHub repository and the other materials from the session,
 - [Session transcript](/talks/vibe-coding-2026/transcript/)
 - [Talk script](/talks/vibe-coding-2026/script/)
 - [AI chat transcript](/talks/vibe-coding-2026/ai-transcript/)
-- [Original invitation](/talks/vibe-coding-2026/invitation/)

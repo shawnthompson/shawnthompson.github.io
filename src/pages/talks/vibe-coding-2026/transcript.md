@@ -318,4 +318,3 @@ A fuller archive version of this event — including post-session chat discussio
 - [Full event transcript](/talks/vibe-coding-2026/transcript-full/)
 - [Talk script](/talks/vibe-coding-2026/script/)
 - [AI chat transcript](/talks/vibe-coding-2026/ai-transcript/)
-- [Original invitation](/talks/vibe-coding-2026/invitation/)

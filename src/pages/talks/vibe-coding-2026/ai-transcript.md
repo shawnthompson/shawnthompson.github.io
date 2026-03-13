@@ -1210,4 +1210,3 @@ You're fully synced now.
 - [Talk overview](/talks/vibe-coding-2026/)
 - [Talk script](/talks/vibe-coding-2026/script/)
 - [Session transcript](/talks/vibe-coding-2026/transcript/)
-- [Original invitation](/talks/vibe-coding-2026/invitation/)

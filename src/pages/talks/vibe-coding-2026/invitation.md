@@ -1,8 +1,8 @@
 ---
-title: Event Invitation
-description: Original event description and invitation for Vibe Coding with Shawn.
+title: Vibe Coding with Shawn (2026)
+description: Invitation and talk materials for Vibe Coding with Shawn, a live session on pair programming with AI tools.
 layout: layouts/base.njk
-permalink: /talks/vibe-coding-2026/invitation/
+permalink: /talks/vibe-coding-2026/
 date: 2026-03-13
 ---
 
@@ -60,9 +60,17 @@ I’ll be using paid versions of the AI tools shown. Some features might not exi
 
 **Disclaimer:** yes, I asked Brody to help write this description. It would have been weird not to. No AIs were harmed in the making of this session.
 
-## Related materials
+## Materials
 
-- [Talk overview](/talks/vibe-coding-2026/)
 - [Talk script](/talks/vibe-coding-2026/script/)
 - [AI chat transcript](/talks/vibe-coding-2026/ai-transcript/)
-- [Session transcript](/talks/vibe-coding-2026/transcript/)
+- [Session transcript](/talks/vibe-coding-2026/transcript/) — lightly edited for readability
+- [Full event transcript](/talks/vibe-coding-2026/transcript-full/) — includes chat reactions and post-session discussion
+
+## Video
+
+Video recording: coming soon.
+
+## Related
+
+- [All talks](/talks/)

@@ -211,4 +211,3 @@ As you can see Brody helps me think. Hunter helps me type. I stay in charge.
 - [Talk overview](/talks/vibe-coding-2026/)
 - [AI chat transcript](/talks/vibe-coding-2026/ai-transcript/)
 - [Session transcript](/talks/vibe-coding-2026/transcript/)
-- [Original invitation](/talks/vibe-coding-2026/invitation/)
