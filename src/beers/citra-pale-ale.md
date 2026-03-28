@@ -6,6 +6,8 @@ date: 2026-03-27
 description: Brew day instructions for a Citra Pale Ale with keg fermentation and pressure control.
 ---
 
+**Batch Size (into fermenter): ~16 L**
+
 ## 1. Night Before Brew Day – Water & Prep
 
 **Water Additions**
@@ -49,6 +51,10 @@ description: Brew day instructions for a Citra Pale Ale with keg fermentation an
 - If gravity is low → extend boil time
 - If volume is low → small top-up
 
+**Brew Day Checks**
+- Pre-boil volume: 22.21 L
+- Pre-boil gravity: ~1.050
+
 ---
 
 ## 4. Boiling (60 Minutes)
@@ -66,7 +72,7 @@ description: Brew day instructions for a Citra Pale Ale with keg fermentation an
 
 ## 5. Cooling & Transfer
 
-- Chill to: ~20–23°C
+- Chill to: ~18–20°C (target lower end if possible for cleaner fermentation)
 - OG Target: 1.062
 
 **Transfer**
@@ -81,7 +87,7 @@ description: Brew day instructions for a Citra Pale Ale with keg fermentation an
 
 ## 6. Fermentation (Keg)
 
-- Yeast: US-05 fermentis x 2 packages
+- Yeast: SafAle US-05 (2 packages)
 - Fermentation Temp: 20°C
 
 **Early Fermentation**
@@ -137,3 +143,4 @@ description: Brew day instructions for a Citra Pale Ale with keg fermentation an
 - Closed transfer minimizes oxygen exposure
 - Keg fermentation with pressure control
 - Monitor pre-boil gravity to stay on target
+- Record actual pre-boil gravity and OG for future adjustments
