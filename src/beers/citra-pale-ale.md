@@ -81,7 +81,7 @@ description: Brew day instructions for a Citra Pale Ale with keg fermentation an
 
 ## 6. Fermentation (Keg)
 
-- Yeast: California Ale (WLP001)
+- Yeast: US-05 fermentis x 2 packages
 - Fermentation Temp: 20°C
 
 **Early Fermentation**
